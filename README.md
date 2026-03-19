@@ -22,7 +22,7 @@ Contacto: juan.daniel.rangel.avila@gmail.com
 1. Crear entorno virtual: `python -m venv .venv`
 2. Activar entorno: `.venv\Scripts\activate`
 3. Instalar dependencias: `pip install -r requirements.txt`
-4. Ejecutar pipeline: `bash main.sh`
+4. Ejecutar pipeline: `bash scripts/main.sh data/Base.xlsx out/`
 
 ## Licencia
 GNU GPL v3
@@ -31,3 +31,5 @@ GNU GPL v3
 - [Pandas Documentation](https://pandas.pydata.org/)
 - [Matplotlib Documentation](https://matplotlib.org/)
 - [FPDF Documentation](http://www.fpdf.org/)
+- [openpyxl Documentation](https://openpyxl.readthedocs.io/en/stable/)
+- [Seaborn Documentation](https://seaborn.pydata.org/)
