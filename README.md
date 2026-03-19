@@ -5,6 +5,7 @@ Este proyecto implementa un pipeline reproducible para realizar un análisis exp
 
 ## Autor
 Juan Daniel Rangel Avila
+
 Contacto: juan.daniel.rangel.avila@gmail.com
 
 ## Requisitos
